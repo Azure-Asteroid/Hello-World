@@ -5,3 +5,4 @@ WARNING! Supercoolant system breached,
 extreme energy discharge of induction magnetic field!
 100,000 Watts lost, temperatures exceed safety levels,
 EVACUATE!!
+Everything the same
